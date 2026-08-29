@@ -1,4 +1,4 @@
-# picoCTF 2021 — "Transformation" (Reverse Engineering, Easy)
+# picoCTF 2021 — "Transformation" (Reverse Engineering)
 ### Complete Documentation & Writeup
 
 **Category:** Reverse Engineering
